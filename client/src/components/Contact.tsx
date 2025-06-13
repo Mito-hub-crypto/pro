@@ -37,7 +37,7 @@ export function Contact() {
     {
       name: "WhatsApp",
       icon: MessageCircle,
-      detail: "+62 812-6695-0382",
+      detail: "aka",
       link: "https://wa.me/6281266950382",
       bgColor: "bg-green-100 dark:bg-green-900/30",
       iconColor: "text-green-600 dark:text-green-400"
@@ -45,8 +45,8 @@ export function Contact() {
     {
       name: "GitHub",
       icon: Github,
-      detail: "@akahost",
-      link: "https://github.com/akahost",
+      detail: "@akaanakbaik",
+      link: "https://github.com/akaanakbaik",
       bgColor: "bg-gray-100 dark:bg-gray-900/30",
       iconColor: "text-gray-600 dark:text-gray-400"
     },
@@ -62,15 +62,15 @@ export function Contact() {
       name: "Telegram",
       icon: Send,
       detail: "@aka",
-      link: "https://t.me/aka",
+      link: "https://t.me/akamodebaik",
       bgColor: "bg-blue-100 dark:bg-blue-900/30",
       iconColor: "text-blue-600 dark:text-blue-400"
     },
     {
       name: "Email",
       icon: Mail,
-      detail: "aka@example.com",
-      link: "mailto:aka@example.com",
+      detail: "aka",
+      link: "mailto:furinabyaka@gmail.com",
       bgColor: "bg-purple-100 dark:bg-purple-900/30",
       iconColor: "text-purple-600 dark:text-purple-400"
     }
