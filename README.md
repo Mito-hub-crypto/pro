@@ -2,9 +2,55 @@
 
 # tolong fork dan star plis 🥹
 
+<h2 align="center">🎖️ Badge</h2>
+<p align="center">
+  <a href="LICENSE">
+    <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img alt="React" src="https://img.shields.io/badge/React-18-blue.svg?logo=react&logoColor=white" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-NextGen-blueviolet.svg?logo=vite&logoColor=white" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-3.x-38bdf8.svg?logo=tailwindcss&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Strict-blue.svg?logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://vercel.com">
+    <img alt="Hosted on Vercel" src="https://img.shields.io/badge/Hosted-Vercel-black?logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/akaanakbaik">
+    <img alt="Made in Indonesia" src="https://img.shields.io/badge/Made%20with%20❤️-Indonesia-red.svg?logo=opensourceinitiative" />
+  </a>
+  <a href="https://github.com/akaanakbaik/pro/commits/main">
+    <img alt="Actively Maintained" src="https://img.shields.io/badge/Status-Actively%20Maintained-brightgreen.svg?logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/akaanakbaik/pro">
+    <img alt="Mobile First" src="https://img.shields.io/badge/Design-Mobile%20First-important?logo=css3&logoColor=white" />
+  </a>
+  <a href="CONTRIBUTING.md">
+    <img alt="Contributions Welcome" src="https://img.shields.io/badge/Contributions-Welcome-blueviolet?logo=git&logoColor=white" />
+  </a>
+  <a href="https://t.me/aka">
+    <img alt="Join Telegram" src="https://img.shields.io/badge/Telegram-Join-blue.svg?logo=telegram" />
+  </a>
+  <a href="https://github.com/akaanakbaik/pro/stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/akaanakbaik/pro?style=social" />
+  </a>
+</p>
+
 Halo! Ini adalah repo dari website portofolio gw, dibuat pakai **React + TypeScript + Tailwind CSS** dan di-setup pakai **Vite**.  
 
-Tujuan project ini simpel: bikin personal site yg clean, dark mode, dan cepet — yg bisa nunjukin siapa gw, apa yg gw bikin, dan gimana orang bisa kontak gw.
+Tujuan project ini simpel: bikin personal site yg clean, dan cepet — yg bisa nunjukin siapa gw, apa yg gw bikin, dan gimana orang bisa kontak g
 
 ---
 
