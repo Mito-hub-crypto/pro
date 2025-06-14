@@ -118,7 +118,6 @@ git push origin fitur/apa-aja
 ## 📬 Kontak
 
 - GitHub: [@akaanakbaik](https://github.com/akaanakbaik)
-- WhatsApp: [wa.me/6281266950382](https://wa.me/6281266950382)
 - Telegram: [@aka](https://t.me/aka)
 - YouTube: [Always Aka](https://www.youtube.com/@always-aka)
 
