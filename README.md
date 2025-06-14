@@ -97,7 +97,6 @@ Kalau pake environment variable, pastiin udah diatur dulu (bisa tambahin di dash
 - ⚡ Vite
 - 🌐 Replit (local testing)
 - ☁️ Vercel (online deploy)
-- ⚙️ Drizzle (opsional buat DB/ORM)
 
 ---
 
