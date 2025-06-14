@@ -25,7 +25,7 @@ export function About() {
             transition={{ duration: 0.6, ease: "easeOut", delay: 0.1 }}
             className="text-lg leading-relaxed mb-6 text-neutral-600 dark:text-neutral-300"
           >
-            Halo! Saya Aka, seorang pelajar Indonesia yang memiliki passion besar dalam dunia teknologi dan pemrograman.
+            Halo! Saya Aka, seorang pelajar dari sekolah SMAN 1 LEMBAH MELINTANG.
             Perjalanan saya dimulai dari rasa ingin tahu tentang bagaimana cara kerja aplikasi dan website yang sering kita gunakan sehari-hari.
           </motion.p>
 
@@ -36,7 +36,7 @@ export function About() {
             className="text-lg leading-relaxed text-neutral-600 dark:text-neutral-300"
           >
             Saat ini saya fokus mengembangkan bot WhatsApp dengan arsitektur modular, web applications menggunakan teknologi modern,
-            dan sistem otomasi yang dapat membantu mempermudah berbagai aktivitas. Saya percaya bahwa teknologi dapat menjadi
+            dan sistem otomasi yang dapat membantu mempermudah berbagai aktivitas downloader dan sebagai fun. Saya percaya bahwa teknologi dapat menjadi
             solusi untuk masalah sehari-hari, dan terus belajar untuk menciptakan inovasi yang bermanfaat bagi banyak orang.
           </motion.p>
         </div>
