@@ -1,4 +1,4 @@
-# 🧑‍💻 Aka's Portfolio Website
+#©Aka
 
 # tolong fork dan star plis 🥹
 
