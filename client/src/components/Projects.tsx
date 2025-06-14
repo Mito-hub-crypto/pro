@@ -11,28 +11,28 @@ export function Projects() {
     {
       id: 1,
       title: "WhatsApp Bot Modular",
-      description: "Bot WhatsApp dengan arsitektur modular yang mendukung berbagai fitur otomasi dan integrasi dengan berbagai layanan.",
-      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=200",
-      tech: ["Node.js", "WhatsApp API", "MongoDB"],
-      link: "https://github.com/akahost",
+      description: "Bot WhatsApp yg bernama furina ai yg memiliki beragam fitur dan hal keren lainya.",
+      image: "https://files.catbox.moe/iiw1sj.jpg",
+      tech: ["Node.js", "WhatsApp API", "Javascript"],
+      link: "https://wa.me/6289524703618",
       techColors: ["bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-400", "bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-400", "bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-400"]
     },
     {
       id: 2,
-      title: "Modern Web Dashboard",
-      description: "Dashboard modern dengan antarmuka yang bersih dan responsif untuk mengelola data dan analitik real-time.",
-      image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=200",
-      tech: ["React", "Tailwind", "Next.js"],
-      link: "https://github.com/akahost",
+      title: "portofolio",
+      description: "Website portofolio yang menggunakan framework vite dan dapat di hosting vercel",
+      image: "https://files.catbox.moe/3f4pfx.jpg",
+      tech: ["React", "Tailwind", "Vite"],
+      link: "https://pro-topaz-six.vercel.app/",
       techColors: ["bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-400", "bg-cyan-100 dark:bg-cyan-900/30 text-cyan-800 dark:text-cyan-400", "bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-400"]
     },
     {
       id: 3,
-      title: "Sistem Otomasi",
-      description: "Sistem otomasi yang dapat mengintegrasikan berbagai layanan dan melakukan tugas-tugas berulang secara otomatis.",
-      image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=200",
-      tech: ["Python", "FastAPI", "Docker"],
-      link: "https://github.com/akahost",
+      title: "kabox",
+      description: "Website cdn atau tourl all media",
+      image: "https://files.catbox.moe/n7hblc.jpg",
+      tech: ["Python", "FastAPI", "Tailwand"],
+      link: "https://comingsoonytdl.carrd.co/",
       techColors: ["bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-400", "bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-400", "bg-gray-100 dark:bg-gray-900/30 text-gray-800 dark:text-gray-400"]
     }
   ];
