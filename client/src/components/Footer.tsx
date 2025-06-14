@@ -3,10 +3,10 @@ import { MessageCircle, Github, Youtube, Send, Mail } from "lucide-react";
 export function Footer() {
   const socialLinks = [
     { icon: MessageCircle, href: "https://wa.me/6281266950382", hoverColor: "hover:text-green-500" },
-    { icon: Github, href: "https://github.com/akahost", hoverColor: "hover:text-gray-600 dark:hover:text-gray-300" },
+    { icon: Github, href: "https://github.com/akaanakbaik", hoverColor: "hover:text-gray-600 dark:hover:text-gray-300" },
     { icon: Youtube, href: "https://www.youtube.com/@always-aka", hoverColor: "hover:text-red-500" },
-    { icon: Send, href: "https://t.me/aka", hoverColor: "hover:text-blue-500" },
-    { icon: Mail, href: "mailto:aka@example.com", hoverColor: "hover:text-purple-500" },
+    { icon: Send, href: "https://t.me/akamodebaik", hoverColor: "hover:text-blue-500" },
+    { icon: Mail, href: "mailto: furinabyaka@gmail.com", hoverColor: "hover:text-purple-500" },
   ];
 
   return (
@@ -16,7 +16,7 @@ export function Footer() {
           {/* Copyright */}
           <div className="text-center md:text-left mb-4 md:mb-0">
             <p className="text-neutral-600 dark:text-neutral-400">
-              © 2025 Aka. Dibuat dengan ❤️ pakai React & Tailwind CSS
+              © 2025 Aka. Dibuat dengan ❤️ dan code
             </p>
           </div>
 
