@@ -8,8 +8,8 @@ export function AudioControl() {
   const [volume, setVolume] = useState(0.5);
   const audioRef = useRef<HTMLAudioElement>(null);
 
-  // Simple audio URL - you can replace this with any audio file
-  const audioSrc = "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav";
+  // Simple audio URL - sini tempat ubah url musik nya 🗿
+  const audioSrc = "https://files.catbox.moe/5x6yqg.mp3";
 
   useEffect(() => {
     const audio = audioRef.current;
