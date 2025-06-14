@@ -29,13 +29,11 @@ Tujuan project ini simpel: bikin personal site yg clean, dark mode, dan cepet �
 │   └── storage.ts           # Penyimpanan data
 ├── shared/                  # Schema atau tipe data global
 │   └── schema.ts
-├── dist/                    # Folder hasil build
 ├── drizzle.config.ts        # Buat ORM/database
 ├── tailwind.config.ts       # Konfigurasi Tailwind
 ├── vite.config.ts           # Vite config
 ├── vercel.json              # Buat deploy ke Vercel
 ├── package.json             # NPM scripts & dependencies
-├── .replit                  # Konfigurasi Replit
 ├── tsconfig.json            # Konfigurasi TypeScript
 └── README.md                # You're here.
 ```
