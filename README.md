@@ -83,10 +83,9 @@ npm run dev
 
 Project ini udah disiapin buat dua tempat:
 
-- **Replit** — auto jalan dari `.replit` config
 - **Vercel** — tinggal connect ke GitHub, deploy
 
-Kalau pake environment variable, pastiin udah diatur dulu (bisa tambahin di dashboard Vercel atau .env di Replit).
+Kalau pake environment variable, pastiin udah diatur dulu (bisa tambahin di dashboard Vercel. 
 
 ---
 
